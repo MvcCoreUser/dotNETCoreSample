@@ -1,2 +1,2 @@
 # git-exercise
-This repo is for learning Git only.
+The .NET Core sample where I'm using multithreading via Task class.
